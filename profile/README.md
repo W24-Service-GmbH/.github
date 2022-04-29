@@ -1,1 +1,1 @@
-![Analyzing Technical Drawings within Seconds](img/Werk24_banner_GitHub.png "Title")
+![Analyzing Technical Drawings within Seconds](Werk24_banner_GitHub.png "Title")
